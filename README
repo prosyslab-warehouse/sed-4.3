@@ -1,0 +1,17 @@
+This is the GNU implementation of sed, the Unix stream editor.
+
+GNU Sed website: https://www.gnu.org/software/sed/
+
+See the NEWS file for a brief summary and the ChangeLog for
+more detailed descriptions of changes.
+
+See the file INSTALL for generic compilation and installation
+instructions.
+
+See the file BUGS for instructions about reporting bugs.
+
+See the files AUTHORS and THANKS for a list of authors and other contributors.
+
+After installation run 'sed --help' or 'man sed' for short usage information,
+and 'info sed' for the complete manual. The manual is also available on
+sed's website.
